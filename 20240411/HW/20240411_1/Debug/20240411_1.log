@@ -1,0 +1,10 @@
+﻿  GoToXY.cpp
+C:\Users\VR\source\repos\20240411_1\20240411_1\GoToXY.cpp(14,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\VR\source\repos\20240411_1\20240411_1\GoToXY.cpp(14,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  ImagePrint.cpp
+  InputBox.cpp
+  Main.cpp
+  NumberSlideHandler.cpp
+  PlayerMoving.cpp
+  Generating Code...
+  20240411_1.vcxproj -> C:\Users\VR\source\repos\20240411_1\Debug\20240411_1.exe
