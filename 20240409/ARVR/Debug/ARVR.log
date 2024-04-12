@@ -1,3 +1,0 @@
-﻿  Example_06_A.cpp
-Main_06.obj : error LNK2005: _main already defined in 5_D.obj
-C:\Users\VR\source\repos\ARVR\Debug\ARVR.exe : fatal error LNK1169: one or more multiply defined symbols found
