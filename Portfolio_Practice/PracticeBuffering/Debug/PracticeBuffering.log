@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\VR\source\repos\PracticeBuffering\PracticeBuffering\Source.cpp(44,7): warning C4551: function call missing argument list
+C:\Users\VR\source\repos\PracticeBuffering\PracticeBuffering\Source.cpp(55,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\VR\source\repos\PracticeBuffering\PracticeBuffering\Source.cpp(55,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  PracticeBuffering.vcxproj -> C:\Users\VR\source\repos\PracticeBuffering\Debug\PracticeBuffering.exe
