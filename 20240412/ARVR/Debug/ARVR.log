@@ -1,0 +1,66 @@
+﻿  BattleCruiser.cpp
+C:\Users\VR\source\repos\ARVR\ARVR\Unit.h(27,15): error C3668: 'Unit::attack': method with override specifier 'override' did not override any base class methods
+  Example_06_B.cpp
+C:\Users\VR\source\repos\ARVR\ARVR\Example_06_B.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\VR\source\repos\ARVR\ARVR\Example_06_B.cpp(25,35): error C2371: 'range': redefinition; different basic types
+C:\Users\VR\source\repos\ARVR\ARVR\Example_06_B.cpp(22): message : see declaration of 'range'
+C:\Users\VR\source\repos\ARVR\ARVR\Example_06_B.cpp(28,30): error C2371: 'range': redefinition; different basic types
+C:\Users\VR\source\repos\ARVR\ARVR\Example_06_B.cpp(22): message : see declaration of 'range'
+C:\Users\VR\source\repos\ARVR\ARVR\Example_06_B.cpp(32,20): error C2065: 'range': undeclared identifier
+C:\Users\VR\source\repos\ARVR\ARVR\Example_06_B.cpp(32,30): error C2440: 'initializing': cannot convert from 'std::uniform_int_distribution<int>' to 'int'
+C:\Users\VR\source\repos\ARVR\ARVR\Example_06_B.cpp(32,18): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Users\VR\source\repos\ARVR\ARVR\Example_06_B.cpp(40,6): error C2374: 'numberA': redefinition; multiple initialization
+C:\Users\VR\source\repos\ARVR\ARVR\Example_06_B.cpp(37): message : see declaration of 'numberA'
+C:\Users\VR\source\repos\ARVR\ARVR\Example_06_B.cpp(41,6): error C2374: 'numberB': redefinition; multiple initialization
+C:\Users\VR\source\repos\ARVR\ARVR\Example_06_B.cpp(38): message : see declaration of 'numberB'
+  Example_07_A.cpp
+  Main.cpp
+C:\Users\VR\source\repos\ARVR\ARVR\Main.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MainGame.cpp
+  MainGame02.cpp
+C:\Users\VR\source\repos\ARVR\ARVR\MainGame02.cpp(20,12): error C2086: 'tagFamily Family': redefinition
+C:\Users\VR\source\repos\ARVR\ARVR\MainGame02.cpp(16): message : see declaration of 'Family'
+  MainGame_03.cpp
+C:\Users\VR\source\repos\ARVR\ARVR\MainGame_03.cpp(105,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MainGame_04.cpp
+C:\Users\VR\source\repos\ARVR\ARVR\Unit.h(27,15): error C3668: 'Unit::attack': method with override specifier 'override' did not override any base class methods
+C:\Users\VR\source\repos\ARVR\ARVR\MainGame_04.cpp(15,39): error C2664: 'void Unit::attack(char *,char *)': cannot convert argument 1 from 'const char [5]' to 'char *'
+C:\Users\VR\source\repos\ARVR\ARVR\MainGame_04.cpp(15,18): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\VR\source\repos\ARVR\ARVR\Unit.h(22,7): message : see declaration of 'Unit::attack'
+  MainGame_05.cpp
+  MainGame_06.cpp
+C:\Users\VR\source\repos\ARVR\ARVR\MainGame_06.h(22,7): error C2039: 'vector': is not a member of 'std'
+C:\Users\VR\source\repos\ARVR\ARVR\predefined C++ types (compiler internal)(340): message : see declaration of 'std'
+C:\Users\VR\source\repos\ARVR\ARVR\MainGame_06.h(22,13): error C2143: syntax error: missing ';' before '<'
+C:\Users\VR\source\repos\ARVR\ARVR\MainGame_06.h(22,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\VR\source\repos\ARVR\ARVR\MainGame_06.h(22,27): error C2238: unexpected token(s) preceding ';'
+C:\Users\VR\source\repos\ARVR\ARVR\MainGame_06.h(23,7): error C2039: 'vector': is not a member of 'std'
+C:\Users\VR\source\repos\ARVR\ARVR\predefined C++ types (compiler internal)(340): message : see declaration of 'std'
+C:\Users\VR\source\repos\ARVR\ARVR\MainGame_06.h(23,13): error C2143: syntax error: missing ';' before '<'
+C:\Users\VR\source\repos\ARVR\ARVR\MainGame_06.h(23,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\VR\source\repos\ARVR\ARVR\MainGame_06.h(23,20): error C2039: 'iterator': is not a member of '`global namespace''
+C:\Users\VR\source\repos\ARVR\ARVR\MainGame_06.h(23,38): error C2238: unexpected token(s) preceding ';'
+C:\Users\VR\source\repos\ARVR\ARVR\MainGame_06.h(27,28): error C2065: 'cout': undeclared identifier
+C:\Users\VR\source\repos\ARVR\ARVR\MainGame_06.h(27,59): error C2065: 'endl': undeclared identifier
+  Main_08.cpp
+C:\Users\VR\source\repos\ARVR\ARVR\Main_08.cpp(13,4): warning C4552: '+': result of expression not used
+C:\Users\VR\source\repos\ARVR\ARVR\Main_08.cpp(40,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\VR\source\repos\ARVR\ARVR\Main_08.cpp(86,7): warning C4101: 'pArrA': unreferenced local variable
+C:\Users\VR\source\repos\ARVR\ARVR\Main_08.cpp(176,23): warning C4553: '==': result of expression not used; did you intend '='?
+  Player_03.cpp
+C:\Users\VR\source\repos\ARVR\ARVR\Player_03.cpp(4,1): error C2084: function 'Player_03::Player_03(void)' already has a body
+C:\Users\VR\source\repos\ARVR\ARVR\Player_03.h(41): message : see previous definition of '{ctor}'
+C:\Users\VR\source\repos\ARVR\ARVR\Player_03.cpp(9,1): error C2084: function 'Player_03::~Player_03(void)' already has a body
+C:\Users\VR\source\repos\ARVR\ARVR\Player_03.h(42): message : see previous definition of '{dtor}'
+  Portion.cpp
+C:\Users\VR\source\repos\ARVR\ARVR\Portion.cpp(4,1): error C2084: function 'Portion::Portion(void)' already has a body
+C:\Users\VR\source\repos\ARVR\ARVR\Portion.h(10): message : see previous definition of '{ctor}'
+C:\Users\VR\source\repos\ARVR\ARVR\Portion.cpp(11,1): error C2084: function 'Portion::~Portion(void)' already has a body
+C:\Users\VR\source\repos\ARVR\ARVR\Portion.h(11): message : see previous definition of '{dtor}'
+  Tank.cpp
+C:\Users\VR\source\repos\ARVR\ARVR\Unit.h(27,15): error C3668: 'Unit::attack': method with override specifier 'override' did not override any base class methods
+  Unit.cpp
+C:\Users\VR\source\repos\ARVR\ARVR\Unit.h(27,15): error C3668: 'Unit::attack': method with override specifier 'override' did not override any base class methods
+C:\Users\VR\source\repos\ARVR\ARVR\Unit.cpp(5,24): error C2440: '=': cannot convert from 'const char [10]' to 'char *'
+C:\Users\VR\source\repos\ARVR\ARVR\Unit.cpp(5,9): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  Generating Code...
